@@ -37,6 +37,7 @@ This repository is a growing collection of projects where math meets meaning. Yo
 
 - **Senior Data Scientist** at **IBM/bluetab** (for **BBVA**) — creating Bayesian and ML models for pricing, siniestrality, and risk management. Also active with **Datio** tech stack (Spark, Databricks, Bitbucket, etc.).
 - **Scouting Product Manager** at **Aztec Data Hub** — building data solutions for football clubs across the globe, from **Sevilla FC** and **Atlético Mineiro** to **Oakland Roots**.
+- **Data Science Intern** at **NTT Data**, working on banking analytics projects: developing Streamlit dashboards for financial wallets, automating PDF extraction with AI agents, and optimizing fraud detection processes using SAS.
 - **Data Analyst at Danone**, working on compensation models, and **Junior Data Scientist at Gaspre**, optimizing fuel prices.
 
 I’ve presented my research at **SIAM**, earned 2nd place in the **Aztec Summit Hackathon**, and completed my thesis on **latent space estimation in football tactics** in collaboration with **FC Barcelona Innovation Hub**.
